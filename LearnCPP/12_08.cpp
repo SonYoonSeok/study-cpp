@@ -12,7 +12,7 @@
 //	std::cout << x << y << z << std::endl;
 //
 //	struct Point { double mX, mY, mZ; };
-//	Point point;
+//	Point point; 
 //	point.mX = 1.0; point.mY = 2.0; point.mZ = 3.0;
 //	auto [mx, my, mz] = point;
 //	std::cout << mx << my << mz << std::endl;
