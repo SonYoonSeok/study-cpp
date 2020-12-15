@@ -143,7 +143,14 @@
     <ClCompile Include="12_08.cpp" />
     <ClCompile Include="12_09.cpp" />
     <ClCompile Include="Class.cpp" />
+    <ClCompile Include="Database.cpp" />
+    <ClCompile Include="Employee.cpp" />
+    <ClCompile Include="EmployeeTest.cpp" />
     <ClCompile Include="UniformReset.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Database.h" />
+    <ClInclude Include="Employee.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
