@@ -15,7 +15,7 @@ namespace Records {
 
 		void displayAll() const;
 		void displayCurrent() const;
-		void displayFormer() const;
+		//void displayFormer() const;
 
 	private:
 		std::vector<Employee> mEmployees;
