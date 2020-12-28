@@ -142,10 +142,12 @@
   <ItemGroup>
     <ClCompile Include="12_08.cpp" />
     <ClCompile Include="12_09.cpp" />
+    <ClCompile Include="12_28.cpp" />
     <ClCompile Include="Class.cpp" />
     <ClCompile Include="Database.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Employee.cpp" />
+    <ClCompile Include="string.cpp" />
     <ClCompile Include="UniformReset.cpp" />
   </ItemGroup>
   <ItemGroup>
