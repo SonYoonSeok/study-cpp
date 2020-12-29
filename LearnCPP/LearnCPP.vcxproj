@@ -147,8 +147,11 @@
     <ClCompile Include="Database.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Employee.cpp" />
+    <ClCompile Include="stlSort_1.cpp" />
+    <ClCompile Include="stlSort_2.cpp" />
     <ClCompile Include="string.cpp" />
     <ClCompile Include="UniformReset.cpp" />
+    <ClCompile Include="병합정렬.cpp" />
     <ClCompile Include="삽입정렬.cpp" />
   </ItemGroup>
   <ItemGroup>
