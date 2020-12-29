@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\12_17">
       <UniqueIdentifier>{ea1b9f91-ea72-4771-88d6-c9371bc5f19d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Sorting">
+      <UniqueIdentifier>{d63188bc-b116-461a-8851-ab77c185a651}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="12_08.cpp">
@@ -50,6 +53,9 @@
     </ClCompile>
     <ClCompile Include="12_28.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="삽입정렬.cpp">
+      <Filter>소스 파일\Sorting</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

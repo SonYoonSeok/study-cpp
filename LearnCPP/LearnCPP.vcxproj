@@ -149,6 +149,7 @@
     <ClCompile Include="Employee.cpp" />
     <ClCompile Include="string.cpp" />
     <ClCompile Include="UniformReset.cpp" />
+    <ClCompile Include="삽입정렬.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Database.h" />
