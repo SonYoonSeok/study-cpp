@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\Sorting">
       <UniqueIdentifier>{d63188bc-b116-461a-8851-ab77c185a651}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\1_15">
+      <UniqueIdentifier>{b7ff8662-cf7a-4ff4-a52e-721b0f760416}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="12_08.cpp">
@@ -65,6 +68,27 @@
     </ClCompile>
     <ClCompile Include="stlSort_2.cpp">
       <Filter>소스 파일\Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="NameAlias.cpp">
+      <Filter>소스 파일\1_15</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultValue.cpp">
+      <Filter>소스 파일\1_15</Filter>
+    </ClCompile>
+    <ClCompile Include="NameSp.cpp">
+      <Filter>소스 파일\1_15</Filter>
+    </ClCompile>
+    <ClCompile Include="InlineFunc.cpp">
+      <Filter>소스 파일\1_15</Filter>
+    </ClCompile>
+    <ClCompile Include="UsingDcl1.cpp">
+      <Filter>소스 파일\1_15</Filter>
+    </ClCompile>
+    <ClCompile Include="UsingDcl2.cpp">
+      <Filter>소스 파일\1_15</Filter>
+    </ClCompile>
+    <ClCompile Include="BankingSystemVer01.cpp">
+      <Filter>소스 파일\1_15</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
