@@ -13,49 +13,49 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\12_15">
-      <UniqueIdentifier>{042b96aa-0f01-4536-a650-ccdd0ae2a17f}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\12_15 EmplyeeSystem">
-      <UniqueIdentifier>{21ff067d-d1f7-43f2-8df3-53edbd16c4bd}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\12_17">
-      <UniqueIdentifier>{ea1b9f91-ea72-4771-88d6-c9371bc5f19d}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\Sorting">
       <UniqueIdentifier>{d63188bc-b116-461a-8851-ab77c185a651}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\1_15">
+    <Filter Include="소스 파일\12월">
+      <UniqueIdentifier>{53bc3723-bce0-41db-a860-0a52f217008f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\12월\12_17">
+      <UniqueIdentifier>{ea1b9f91-ea72-4771-88d6-c9371bc5f19d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\12월\12_15">
+      <UniqueIdentifier>{042b96aa-0f01-4536-a650-ccdd0ae2a17f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\12월\12_15 EmplyeeSystem">
+      <UniqueIdentifier>{21ff067d-d1f7-43f2-8df3-53edbd16c4bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1월">
+      <UniqueIdentifier>{612a1f73-8043-4768-a5bb-3b31f56dadee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1월\1_28">
+      <UniqueIdentifier>{2388c331-1bb3-4f88-bd59-23d4dc3c85ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\1월\1_15">
       <UniqueIdentifier>{b7ff8662-cf7a-4ff4-a52e-721b0f760416}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="12_08.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="12_09.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="Class.cpp">
-      <Filter>소스 파일\12_15</Filter>
+      <Filter>소스 파일\12월\12_15</Filter>
     </ClCompile>
     <ClCompile Include="UniformReset.cpp">
-      <Filter>소스 파일\12_15</Filter>
+      <Filter>소스 파일\12월\12_15</Filter>
     </ClCompile>
     <ClCompile Include="Employee.cpp">
-      <Filter>소스 파일\12_15 EmplyeeSystem</Filter>
+      <Filter>소스 파일\12월\12_15 EmplyeeSystem</Filter>
     </ClCompile>
     <ClCompile Include="Database.cpp">
-      <Filter>소스 파일\12_15 EmplyeeSystem</Filter>
+      <Filter>소스 파일\12월\12_15 EmplyeeSystem</Filter>
     </ClCompile>
     <ClCompile Include="Main.cpp">
-      <Filter>소스 파일\12_15 EmplyeeSystem</Filter>
+      <Filter>소스 파일\12월\12_15 EmplyeeSystem</Filter>
     </ClCompile>
     <ClCompile Include="string.cpp">
-      <Filter>소스 파일\12_17</Filter>
-    </ClCompile>
-    <ClCompile Include="12_28.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\12월\12_17</Filter>
     </ClCompile>
     <ClCompile Include="삽입정렬.cpp">
       <Filter>소스 파일\Sorting</Filter>
@@ -70,33 +70,60 @@
       <Filter>소스 파일\Sorting</Filter>
     </ClCompile>
     <ClCompile Include="NameAlias.cpp">
-      <Filter>소스 파일\1_15</Filter>
+      <Filter>소스 파일\1월\1_15</Filter>
     </ClCompile>
     <ClCompile Include="DefaultValue.cpp">
-      <Filter>소스 파일\1_15</Filter>
+      <Filter>소스 파일\1월\1_15</Filter>
     </ClCompile>
     <ClCompile Include="NameSp.cpp">
-      <Filter>소스 파일\1_15</Filter>
+      <Filter>소스 파일\1월\1_15</Filter>
     </ClCompile>
     <ClCompile Include="InlineFunc.cpp">
-      <Filter>소스 파일\1_15</Filter>
+      <Filter>소스 파일\1월\1_15</Filter>
     </ClCompile>
     <ClCompile Include="UsingDcl1.cpp">
-      <Filter>소스 파일\1_15</Filter>
+      <Filter>소스 파일\1월\1_15</Filter>
     </ClCompile>
     <ClCompile Include="UsingDcl2.cpp">
-      <Filter>소스 파일\1_15</Filter>
+      <Filter>소스 파일\1월\1_15</Filter>
     </ClCompile>
     <ClCompile Include="BankingSystemVer01.cpp">
-      <Filter>소스 파일\1_15</Filter>
+      <Filter>소스 파일\1월\1_15</Filter>
+    </ClCompile>
+    <ClCompile Include="12_28.cpp">
+      <Filter>소스 파일\12월</Filter>
+    </ClCompile>
+    <ClCompile Include="12_08.cpp">
+      <Filter>소스 파일\12월</Filter>
+    </ClCompile>
+    <ClCompile Include="12_09.cpp">
+      <Filter>소스 파일\12월</Filter>
+    </ClCompile>
+    <ClCompile Include="constRe.cpp">
+      <Filter>소스 파일\1월\1_28</Filter>
+    </ClCompile>
+    <ClCompile Include="TrueAndFalse.cpp">
+      <Filter>소스 파일\1월\1_28</Filter>
+    </ClCompile>
+    <ClCompile Include="DataTypeBool.cpp">
+      <Filter>소스 파일\1월\1_28</Filter>
+    </ClCompile>
+    <ClCompile Include="Referen.cpp">
+      <Filter>소스 파일\1월\1_28</Filter>
+    </ClCompile>
+    <ClCompile Include="RefArrelem.cpp">
+      <Filter>소스 파일\1월\1_28</Filter>
+    </ClCompile>
+    <ClCompile Include="RefPtr.cpp">
+      <Filter>소스 파일\1월\1_28</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Employee.h">
-      <Filter>소스 파일\12_15 EmplyeeSystem</Filter>
+      <Filter>소스 파일\12월\12_15 EmplyeeSystem</Filter>
     </ClInclude>
     <ClInclude Include="Database.h">
-      <Filter>소스 파일\12_15 EmplyeeSystem</Filter>
+      <Filter>소스 파일\12월\12_15 EmplyeeSystem</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
